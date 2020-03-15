@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+ 
+  background-image: URL("https://cdn1.vox-cdn.com/assets/4229567/game-of-thrones-poster_85627-1920x1200.jpg") ;
+
+  /* Full height */
+  height: 100%;
+  width: 100%; 
+
+ 
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
 }
+
+
 
 

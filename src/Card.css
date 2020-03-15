@@ -1,5 +1,8 @@
 .Card{
-    flex: 1
+    flex: 1;
+    text-align: center;
+    
+    
   }
   
   .Card:hover{
@@ -9,4 +12,5 @@
   .Card img{
     width: 100px;
     height: 100px;
+    
   }
