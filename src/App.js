@@ -19,7 +19,7 @@ function App() {
     
       
     <div className="App">
-      {/* <img src="https://cdn1.vox-cdn.com/assets/4229567/game-of-thrones-poster_85627-1920x1200.jpg" className="bg"/> */}
+      
       <Board cards={cards} />
     </div>
     
